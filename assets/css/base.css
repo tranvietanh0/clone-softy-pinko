@@ -1,0 +1,20 @@
+:root{
+    --color-one: #8261EE;
+    --color-two: #FF589E;
+    --color-text: #1e1e1e;
+    --font: 'Raleway', sans-serif;
+}
+body{
+    color: var(--color-text);
+    font-weight: 1.6;
+    font-family: var(--font);
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #1e1e1e;
+}
+a:hover{
+    color: var(--color-two);
+    text-decoration: none;
+}
