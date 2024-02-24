@@ -213,3 +213,17 @@
     margin-top: -10px;
 }
 /* end section five  */
+/* section six  */
+.section-six {
+    padding: 80px;
+}
+.section-six .inner-content{
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+}
+.section-six .inner-content .inner-desc{
+    font-weight: 200;
+    margin-top: 20px;
+}
+/* end section six  */
